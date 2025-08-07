@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn A",
+    "age": 25,
+    "address": "Hà Nội"
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị B",
+    "age": 30,
+    "address": "TP.HCM"
+  },
+  {
+    "id": 3,
+    "name": "Lê Văn C",
+    "age": 28,
+    "address": "Đà Nẵng"
+  },
+  {
+    "id": 4,
+    "name": "Đoàn Thế Lân",
+    "age": 26,
+    "address": "112 Lê Huân"
+  }
+]
